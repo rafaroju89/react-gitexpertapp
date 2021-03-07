@@ -8,5 +8,3 @@ ReactDOM.render(
     <GifExpertApp />,
   document.getElementById('root')
 );
-
-
